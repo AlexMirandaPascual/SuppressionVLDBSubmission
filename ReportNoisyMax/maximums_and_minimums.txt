@@ -1,0 +1,80 @@
+Adult
+age
+36    898
+31    888
+34    886
+23    877
+35    876
+     ... 
+83      6
+88      3
+85      3
+86      1
+87      1
+Name: count, Length: 73, dtype: int64
+hours-per-week
+40    15217
+50     2819
+45     1824
+60     1475
+35     1297
+      ...  
+82        1
+92        1
+87        1
+74        1
+94        1
+Name: count, Length: 94, dtype: int64
+Census
+FICA
+4207    32
+2295    32
+3825    31
+3060    29
+4699    26
+        ..
+3166     1
+2195     1
+1499     1
+4714     1
+3489     1
+Name: count, Length: 375, dtype: int64
+FEDTAX
+4621     1
+2218     1
+11104    1
+5255     1
+619      1
+        ..
+9350     1
+4992     1
+14107    1
+2486     1
+1374     1
+Name: count, Length: 1080, dtype: int64
+Irish
+Age
+31    1522
+30    1510
+32    1480
+37    1470
+29    1458
+      ... 
+79     326
+81     262
+82     262
+84     239
+83     225
+Name: count, Length: 70, dtype: int64
+HighestEducationCompleted
+3     16215
+2     12035
+1      8627
+4      6225
+8      6195
+9      4978
+7      4930
+5      3938
+6      3078
+10      445
+Name: count, dtype: int64
